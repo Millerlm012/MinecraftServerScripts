@@ -1,5 +1,5 @@
 # MinecraftServerScripts
-All scripts being used to ensure my personally hosted Minecraft server is healthy.
+All scripts being used to ensure my personally hosted Minecraft server is operational.
 
 This Minecraft server is running on an Ubuntu Server I personally set up. There will be a description of what the scripts basic functions are...
 - boot.sh -> creates a new detached terminal screen and start the server within it
